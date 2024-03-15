@@ -1,6 +1,6 @@
 {
   "name": "maumau-mau",
-  "version": "1.0.3",
+  "version": "1.4.6",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
